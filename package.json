@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "concurrently \"npm run sass\" \"npm run serve\"",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "sass": "node-sass -i -w --output-style=compressed src/styles/style.scss src/styles/style.min.css",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
