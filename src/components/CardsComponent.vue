@@ -18,7 +18,7 @@ import cardsData from '@/data/CardsData.js'
 </script>
 
 <template>
-<div class=" row w-100">
+<div class=" row cards-container ">
 <CardComponent v-for="cardData in data" 
 :key="cardData.title"
 :cardData = "cardData"

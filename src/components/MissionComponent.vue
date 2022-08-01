@@ -3,7 +3,7 @@
         <div class="row p-5  d-flex flex-row-reverse  ">
             <div class="col-6 ">
              <h3 >OUR MISSION</h3>
-             <p  class="w-50">Lorem ipsum dolor sit amet consectetur 
+             <p  class="w-50 mission-text">Lorem ipsum dolor sit amet consectetur 
                 adipisicing elit. Beatae alias magni maiores 
                 atque distinctio optio amet laborum dolorem 
                 excepturi assumenda, vero sequi accusamus c

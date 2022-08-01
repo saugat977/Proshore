@@ -26,19 +26,21 @@
             <div class="row  w-100">
               <ul class="navbar-nav d-flex justify-content-evenly ">
               <li class="nav-item ">
-                <a class="nav-link active text-light" aria-current="page" href="#">Home</a>
+                <a class="nav-link text-light" aria-current="page" href="#">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light" href="#">About</a>
+                <a class="nav-link text-light" href="#">
+                  ABOUT
+                </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light">Discover</a>
+                <a class="nav-link text-light">DISCOVER</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light">Donate</a>
+                <a class="nav-link text-light active">DONATE</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-light">Contact</a>
+                <a class="nav-link text-light">CONTACT</a>
               </li>
             </ul>
             </div>

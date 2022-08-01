@@ -46,7 +46,7 @@
     </div>
   </footer>
   <div class="row  text-center">
-        <h6>Centerville | All Rights reserved</h6>
+        <h6>&copy; Centerville | All Rights reserved</h6>
     </div>
 </div>
 </template>

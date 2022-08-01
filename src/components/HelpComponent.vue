@@ -5,7 +5,7 @@
       <div class="col-3 p-4">
         <div class="card">
           <div class="card-body text-center">
-            <h5 class="card-title ">PRAY</h5>
+            <h5 class="card-title help-card-title">PRAY</h5>
             
             <p class="card-text   mt-3">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -19,7 +19,7 @@
       <div class="col-3 p-4">
         <div class="card">
           <div class="card-body text-center">
-            <h5 class="card-title ">GO</h5>
+            <h5 class="card-title help-card-title">GO</h5>
             
             <p class="card-text   mt-3">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -33,7 +33,7 @@
       <div class="col-3 p-4">
         <div class="card">
           <div class="card-body text-center">
-            <h5 class="card-title ">GIVE</h5>
+            <h5 class="card-title help-card-title ">GIVE</h5>
             
             <p class="card-text   mt-3">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
